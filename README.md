@@ -73,3 +73,16 @@ The system has been tested with a synthetic dataset of stock prices. The followi
 Sample Output
 
 	•	Stock Price Trend with Maximum Gain and Anomalies:
+
+Discussion
+
+	•	Findings: The system successfully detected periods of maximum growth or loss in stock prices, as well as anomalies like sharp price changes. This can help identify investment opportunities or fraudulent activities.
+	•	Challenges: Handling larger datasets efficiently, though the divide-and-conquer approach offers scalability.
+	•	Future Improvements: Extend the anomaly detection algorithm to work with multi-dimensional datasets for deeper analysis.
+
+License
+
+This project is licensed under the MIT License.
+
+This README gives an overview of the project, explains how to run it, and summarizes key components. You can customize it further with more details on the dataset you’re using and include a sample graph screenshot under Sample Output.
+
